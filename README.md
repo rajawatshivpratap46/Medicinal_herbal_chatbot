@@ -53,7 +53,7 @@ It leverages AI + NLP + Generative AI (LLM APIs) to understand user queries and 
             ↓
     Frontend (React UI)
             ↓
-    Backend API (Node.js / Express)
+    Backend API (Flask)
             ↓
     NLP Processing (Python)
             ↓
