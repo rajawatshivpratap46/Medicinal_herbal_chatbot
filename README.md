@@ -2,6 +2,15 @@
 
 An intelligent AI-powered chatbot that provides information about medicinal herbs, natural remedies, and their therapeutic uses using Natural Language Processing (NLP) and LLM APIs.
 
+🚀 Live Demo  
+
+🔗 **Try the App Here:**  
+👉 https://your-live-demo-link.com  
+
+🎥 **Demo Video:**  
+👉 https://your-demo-video-link.com  
+
+
 🚀 Overview
 
 The Medicinal Herbal Chatbot is designed to assist users in exploring natural remedies by answering queries related to herbs, their benefits, and usage.
