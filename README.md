@@ -12,31 +12,25 @@ An intelligent AI-powered chatbot that provides information about medicinal herb
 
 📸 Screenshots  
 
-**### 🏠 Chat Interface  
-![Chat UI](./assets/chat-ui.png)
+### 🏠 Homepage (Main Interface)   
 <img width="1906" height="921" alt="Medicinal_herbal_homepage1" src="https://github.com/user-attachments/assets/2eadeffb-bed9-4883-96c0-ed3bcfdce8a0" />
 
-
+### 🏠 Homepage (Alternative View)  
 <img width="1908" height="916" alt="Medicinal_herbal_homepage2" src="https://github.com/user-attachments/assets/17d6bb50-c8d8-4109-bd22-7667137cd46a" />
 
 ### 🤖 AI Response Example  
-![Response](./assets/response.png)
 <img width="1890" height="897" alt="Medicinal_herbal_Assistant" src="https://github.com/user-attachments/assets/3d6d5ff0-e86e-421f-9ca3-46773c434228" />
 
 ### 🔍 Herb Search Page  
-![Search](./assets/Medicinal_herbal_herbs_Searchpage.png)
 <img width="1892" height="918" alt="Medicinal_herbal_herbs_Searchpage" src="https://github.com/user-attachments/assets/ce1eb167-6063-4e26-abe2-e0b9c32edb40" />
 
 ### 🌿 Herb Identification Page  
-![Identify](./assets/Medicinal_herbal_herbs_Identify_Page.png)
 <img width="1907" height="913" alt="Medicinal_herbal_herbs_Identify_Page" src="https://github.com/user-attachments/assets/da74cee2-d36a-45fb-96b8-c7815b117a78" />
 
 ### 💊 Health Profile Section  
-![Health Profile](./assets/Medicinal_herbal_health_Profile.png)
 <img width="1907" height="920" alt="Medicinal_herbal_health_Profile" src="https://github.com/user-attachments/assets/16f3cdea-e3fa-499d-a6df-1da124290c49" />
 
 ### 🎯 Recommendation System  
-![Recommendation](./assets/Medicinal_herbal_Recommendation_Page.png)
 <img width="1908" height="916" alt="Medicinal_herbal_Recommendation_Page" src="https://github.com/user-attachments/assets/306e35ce-14da-4973-a2c5-bdd186f99bb0" />
 
 🚀 Overview
