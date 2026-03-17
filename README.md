@@ -10,39 +10,41 @@ It leverages AI + NLP + Generative AI (LLM APIs) to understand user queries and 
 
 🧠 Key Features
 
-🤖 AI-Powered Chatbot – Understands user queries using NLP techniques
+  🤖 AI-Powered Chatbot – Understands user queries using NLP techniques
+  
+  🧾 Herbal Knowledge System – Provides detailed medicinal information
+  
+  🗣️ Voice-to-Text Input – Enables speech-based interaction
+  
+  💬 Chat History – Stores previous conversations for better experience
+  
+  🎯 Smart Recommendations – Suggests related herbs and treatments
+  
+  ⚡ Real-Time Response – Fast and interactive chatbot system
 
-🧾 Herbal Knowledge System – Provides detailed medicinal information
-
-🗣️ Voice-to-Text Input – Enables speech-based interaction
-
-💬 Chat History – Stores previous conversations for better experience
-
-🎯 Smart Recommendations – Suggests related herbs and treatments
-
-⚡ Real-Time Response – Fast and interactive chatbot system
 
 🛠️ Tech Stack
-👨‍💻 Frontend
 
-HTML, CSS, JavaScript
-
-⚙️ Backend
-
-Django
-
-Flask
-
-🧠 AI & NLP
-
-Python
-
-NLP Techniques (Text Processing, Intent Understanding)
-
-LLM API (Groq / OpenAI-like APIs)
-
-📊 Data Handling
-
-Mysql
-
-Pandas, NumPy
+  👨‍💻 Frontend
+  
+  HTML, CSS, JavaScript
+  
+  ⚙️ Backend
+  
+  Django
+  
+  Flask
+  
+  🧠 AI & NLP
+  
+  Python
+  
+  NLP Techniques (Text Processing, Intent Understanding)
+  
+  LLM API (Groq / OpenAI-like APIs)
+  
+  📊 Data Handling
+  
+  Mysql
+  
+  Pandas, NumPy
